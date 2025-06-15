@@ -1,4 +1,5 @@
-# Bib-s-Hacker-Tech.<!DOCTYPE html><html lang="en">
+# Bib-s-Hacker-Tech.
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Romantic Hacker Chat System</title>
